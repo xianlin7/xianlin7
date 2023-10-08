@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xianlin7&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xianlin7&column=8&theme=flat&no-frame=true"/>
 </a>
 
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=xianlin7&count_private=true&include_all_commits=true&theme=merko" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianlin7&layout=compact&theme=merko" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=xianlin7&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianlin7&layout=compact" />
 </div>
