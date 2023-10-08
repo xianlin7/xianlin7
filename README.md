@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xianlin7&column=8&theme=flat&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xianlin7&&title=Stars,Followers,Commits,Repositories,Experience&theme=flat&no-frame=true"/>
 </a>
 
 ---
